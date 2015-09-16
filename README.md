@@ -1,6 +1,6 @@
 # Sequence.js Tutorial - Creating an Animated Product Slider with Sequence.js
 
-Demo files that accompany the [Creating an Animated Product Slider with Sequence.js tutorial](#).
+Demo files that accompany the [Creating an Animated Product Slider with Sequence.js tutorial](http://davidwalsh.name/creating-animated-product-slider-sequencejs).
 
 ## Contents
 
